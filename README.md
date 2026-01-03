@@ -17,20 +17,6 @@ All models are implemented in **Python**, following industry-style assumptions a
 
 ---
 
-## 🧩 Project Structure
-
-```text
-📂 Quantitative-Research-JPMC
-│
-├── Nat_Gas.csv
-├── Task 1_Natural_Gas_Price_Model.ipynb
-├── Task 2_Storage_Contract_Pricing.ipynb
-├── Task 3_Loan_Default_PD_Model.ipynb
-├── Task 4_FICO_Quantization_DP.ipynb
-├── FICO_DP_LL_and_MSE_Buckets.csv
-└── README.md
-```
-
 ## 🧠 Tasks Breakdown
 
 ### 🟡 **Task 1: Natural Gas Price Modeling**
