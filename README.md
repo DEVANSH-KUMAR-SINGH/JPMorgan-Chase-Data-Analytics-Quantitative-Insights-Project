@@ -1,5 +1,9 @@
 # 📊 Quantitative Research & Risk Analytics – JPMorgan Chase Job Simulation
 
+### 🛒 Data Analytics | Data Science | ML Algorithms | Finance Domain
+
+---
+
 This repository contains my completed work for the **JPMorgan Chase & Co. Quantitative Research Job Simulation** hosted on **Forage**.  
 The project simulates real-world problems faced by **trading desks and risk teams**, covering **commodity pricing, contract valuation, credit risk modeling, and credit score quantization**.
 
